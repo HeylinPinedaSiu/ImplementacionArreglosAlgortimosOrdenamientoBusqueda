@@ -1,6 +1,4 @@
 
-package ActasDeNotas;
-
 import HojaMatricula.Asignatura;
 import HojaMatricula.Estudiante;
 import static HojaMatricula.Matricula.asignaturas;
