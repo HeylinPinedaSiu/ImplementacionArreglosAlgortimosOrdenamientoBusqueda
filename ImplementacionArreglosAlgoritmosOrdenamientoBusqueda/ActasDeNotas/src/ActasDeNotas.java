@@ -1,6 +1,3 @@
-
-package ActasDeNotas;
-
 import HojaMatricula.Estudiante;
 import java.util.ArrayList;
 
